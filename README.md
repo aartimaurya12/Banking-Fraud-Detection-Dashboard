@@ -1,4 +1,4 @@
-# Fraud Detection Dashboard 🏦
+# Banking Fraud Detection Dashboard 🏦
 
 ## Project Overview
 This project focuses on analyzing transaction data to identify fraudulent activities and understand patterns associated with fraud.
