@@ -62,14 +62,14 @@ The objective of this project was to:
 
 ## Key Features
 
-✔ Interactive dashboard navigation
-✔ KPI cards and metrics
-✔ Dynamic filters and slicers
-✔ Customer demographic insights
-✔ Transaction analysis
-✔ Geographical analysis
-✔ Time-based trends
-✔ Fraud monitoring insights
+- Interactive dashboard navigation
+- KPI cards and metrics
+- Dynamic filters and slicers
+- Customer demographic insights
+- Transaction analysis
+- Geographical analysis
+- Time-based trends
+- Fraud monitoring insights
 
 ## My Contribution
 
